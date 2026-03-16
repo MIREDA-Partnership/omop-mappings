@@ -1,4 +1,4 @@
-# OMOP Tables for MIREDA
+# OMOP CDM Mapping Resources
 
 This repository contains OMOP Common Data Model (CDM) concept mappings used for harmonising birth cohort data within the **Mother and Infant Research Electronic Data Analysis (MIREDA)** initiative.
 
@@ -18,8 +18,9 @@ MIREDA seeks to address disparities in data structure, content, and vocabulary a
 
 The following cohorts are part of the MIREDA initiative:
 
-- **CPRD (Clinical Practice Research Datalink)** – England-wide primary care cohort  
-- **MuM-PreDiCT** – A subset of CPRD focused on maternal multimorbidity  
+- **CPRD (Clinical Practice Research Datalink)** – England-wide primary care cohort
+    - Consists of data from **AURUM** and **GOLD**
+    - Data from Northern Ireland to follow.
 - **Born in Wales (BiW)** – National cohort covering live births in Wales  
 - **Born in Scotland (BiS)** – Regional cohort from NHS Borders and NHS Lothian  
 - **Born in Bradford (BiBBS / BiB4All)** – A diverse population birth cohort in Bradford  
@@ -57,8 +58,8 @@ All person-level data remain within the secure environments of each TRE. Mapping
 ## 📬 Contact
 
 For questions, suggestions, or collaboration, please contact:  
-**Armando Mendez**  
-📧 armando.mendez@nottingham.ac.uk
+**Analysts**  
+📧 mireda@jiscmail.ac.uk
 
 ---
 
